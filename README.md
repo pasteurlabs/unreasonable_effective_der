@@ -1,4 +1,4 @@
-[![arXiv](https://img.shields.io/badge/arXiv-xxxx.yyyyy-b31b1b.svg)](https://arxiv.org/abs/xxxx.yyyyy)
+[![arXiv](https://img.shields.io/badge/arXiv-2205.10060-b31b1b.svg)](https://arxiv.org/abs/2205.10060)
 
 # The Unreasonable Effectiveness of Deep Evidential Regression
 
