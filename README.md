@@ -4,7 +4,7 @@
 # The Unreasonable Effectiveness of Deep Evidential Regression
 
 This repository contains the paper and the supplementary material to reproduce _The Unreasonable Effectiveness of Deep Evidential Regression_:
- - [unreasonable_effective_der.pdf](unreasonable_effective_der.pdf): The paper.
+ - [unreasonable_effective_der.pdf](unreasonable_effective_der.pdf): The paper and the Appendix.
  - [understanding_sota.ipynb](understanding_sota.ipynb): Introduction and high-level overview.
  - [x3_indepth.ipynb](x3_indepth.ipynb): Analysis of one-dimensional cubic regression data set.
  - [binpulse.ipynb](binpulse.ipynb): Analysis of binary pulse experiment.
